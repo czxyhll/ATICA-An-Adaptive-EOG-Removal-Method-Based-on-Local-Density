@@ -1,4 +1,4 @@
-# ATICA
+# ATICA,一种基于局部密度的自适应眼电伪迹去除方法
 An adaptive EOG removal method based on local density
 this is an example code for ATICA, and please run the file Example_Demo.m
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
